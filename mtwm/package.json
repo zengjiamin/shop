@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "better-scroll": "^1.15.2",
     "calendar.vue": "0.0.1",
     "date-format": "^3.0.0",
